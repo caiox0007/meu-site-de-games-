@@ -57,3 +57,15 @@ iframe {
     border: 3px solid #55e4a1;
     box-shadow: 0 0 20px rgba(85, 228, 161, 0.4);
 }
+h2 {
+    color: #55e4a1;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px #55e4a1;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #55e4a1;
+    padding-bottom: 10px;
+    width: fit-content;
+}
