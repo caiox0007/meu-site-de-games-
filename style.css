@@ -6,3 +6,18 @@ h1 {
     color: rgba(85, 228, 161, 0.788); 
     font-size: 75px;
 }
+body {
+    background-color: #0d1117;
+    color: #e6edf3;
+}
+
+h1 {
+    color: #55e4a1;
+    font-size: 75px;
+    text-shadow: 0 0 15px #55e4a1;
+}
+
+h2 {
+    color: #55e4a1;
+    text-shadow: 0 0 10px #55e4a1;
+}
